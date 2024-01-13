@@ -1,0 +1,23 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": "Train cifar10",
+            "type": "python",
+            "request": "launch",
+            "module": "ood_cl.scripts.train",
+            "args": [
+                "--config",
+                "src/ood_cl/configs/config.yaml",
+                "fit"
+            ],
+            "justMyCode": false,
+            "cwd": "${workspaceFolder}",
+            "presentation": {
+                "hidden": false,
+                "group": "CIFAR10",
+                "order": 1
+            }
+        },
+    ]
+}

@@ -1,0 +1,4 @@
+2024-01-06 13:11:25 - Error handling files: expected str, bytes or os.PathLike object, not StringVar
+2024-01-06 13:11:25 - Error while reading CSV file: expected str, bytes or os.PathLike object, not TextIOWrapper
+2024-01-06 13:12:40 - Error handling files: expected str, bytes or os.PathLike object, not StringVar
+2024-01-06 13:12:40 - Error while reading CSV file: expected str, bytes or os.PathLike object, not TextIOWrapper
